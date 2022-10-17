@@ -1,0 +1,7 @@
+@import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
+@import url("reset.css");
+
+li {
+  list-style-type: none;
+  text-align: center;
+}
